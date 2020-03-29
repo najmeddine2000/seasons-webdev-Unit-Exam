@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Paytone+One&display=swap');
+
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+    background-image: url(images/seasons-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+	border: black solid 3px;
+	border-radius: 15px;
+	width: 700px;
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: rgba(255, 255, 255, 0.85);
+	text-align: center;
+}
+
+h1 {
+	background-color: black;
+	color: white;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+h1, h3 {
+	font-family: "Paytone One", sans-serif;
+	letter-spacing: 4px;
+}
+
+button {
+	background-color: peachpuff;
+	width: 120px;
+	padding: 6px;
+	margin: 0 0 10px 0;
+}
+
+button:hover {
+	background-color: lightslategray;
+	color: white;
+}
+
+.season {
+	text-align: center;
+	padding: 50px 15px;
+	color: white;
+	font-size: 14px;
+}
+
+.season img {
+	width: 100px;
+	margin: 0 auto;
+}
+
+.season ul {
+	text-align: left;
+}
+
+#winter {
+	background-color: rgb(121,123,186);
+}
+
+#spring {
+	background-color: olivedrab;
+}
+
+#summer {
+	background-color: #ed7da5;
+}
+
+#autumn {
+	background-color: saddlebrown;
+}
+
+a {
+	text-decoration: none;
+	color: lightsalmon;
+}
+
+a:hover {
+	color: yellow;
+	text-decoration: underline;
+}

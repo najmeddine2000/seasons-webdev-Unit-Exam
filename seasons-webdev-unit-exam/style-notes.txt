@@ -1,0 +1,32 @@
+Box-model:
+Content is 700px wide, centered, with 10px padding on top/bottom and 50px padding left/right
+Season div boxes have padding of 15px left/right and 50px top/bottom
+Season image icons are 100px in width
+The h1 has a padding of 10px
+All other margin/padding/border-radius properties should be best-guessed from the screenshot
+
+Colors:
+The content background is rgba(255, 255, 255, 0.85) with a 3px black border
+The h1 is white with a black background
+The button has background peachpuff
+Winter background is rgb(121,123,186)
+Spring background is olivedrab
+Summer background is #ed7da5
+Autumn background is saddlebrown
+links (e.g. Winter Solstice (shortest day!)) have no underline with color lightsalmon
+
+Text:
+The page's main font is 'Montserrat' (Google Fonts)
+Heading fonts are 'Paytone One' (Google Fonts)
+All headers have a letter spacing of 4px;
+
+Links:
+April Fools: "https://en.wikipedia.org/wiki/April_Fools%27_Day"
+Summer Solstice: "https://en.wikipedia.org/wiki/Summer_solstice"
+Remebrance Day: "https://en.wikipedia.org/wiki/Remembrance_Day"
+Winter Solstice: "https://en.wikipedia.org/wiki/Winter_solstice"
+
+Additional:
+Links open in a new window
+On hover, the button has a background color of lightslategray and the text is white
+On hover, all links should be underlined and yellow

@@ -1,0 +1,38 @@
+**************************************************************
+*** Use the text below to copy and paste in your HTML doc ****
+**************************************************************
+
+Holidays for Each Season
+Enter a holiday to complete the list!
+Holiday's month: 
+
+Holiday's day: 
+
+Name of holiday: 
+
+Add Holiday
+
+
+"To appreciate the beauty of a snowflake it is necessary to stand out in the cold." - Aristotle
+
+Winter Solstice (shortest day!): December 22
+Christmas Day: December 25
+------
+
+“In the spring, I have counted 136 different kinds of weather inside of 24 hours.” — Mark Twain
+
+April Fool's Day: April 1
+Memorial Day (USA): May 27
+------
+
+“I like summer. I like warmer weather and long days. I’m one of those silly people who still enjoy lying in the sun—my children are horrified!” — Danielle Steel
+
+Summer Solstice (longest day!): June 21
+Canada Day: July 1
+------
+
+"Autumn... the year's last, loveliest smile."- William Cullen Bryant
+
+Remebrance Day (Canada): November 11
+Thanksgiving: October 14
+------
